@@ -1,0 +1,2056 @@
+/*
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 1
+Player 1, Choose a Pok?mon :
+0. Charizard (78 HP)
+1. Rattata (30 HP)
+2. Pidgeot (83 HP)
+0
+This Pok?mon is already in battle.
+Player 1, Choose a Pok?mon :
+0. Charizard (78 HP)
+1. Rattata (30 HP)
+2. Pidgeot (83 HP)
+2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 0
+                                                  Blastoise used tackle!
+                                                  Pidgeot received 55 damage!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Pidgeot
+Type: Normal
+Current HP: 28
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: shell bell
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 79
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Pidgeot, Choose a move:
+0. tackle (40 PP)
+1. fly (10 PP)
+Enter the number of the move: 0
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (79 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (106 HP)
+                                                                                                    2
+                                                  Pidgeot used tackle!
+                                                  Mewtwo received 66 damage!
+                                                  Using shell bell...
+                                                  shell bell used!
+                                                  Pidgeot healed 13 HP!
+Player 1 Pok?mon
+Name: Pidgeot
+Type: Normal
+Current HP: 41
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: shell bell
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 40
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (79 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (40 HP)
+                                                                                                    2
+                                                                                                    This Pok?mon is already in battle.
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (79 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (40 HP)
+                                                                                                    0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 1
+Player 1, Choose a Pok?mon :
+0. Charizard (78 HP)
+1. Rattata (30 HP)
+2. Pidgeot (41 HP)
+0
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 78
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 79
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (40 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (10 PP)
+Enter the number of the move: 3
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (79 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (40 HP)
+                                                                                                    2
+                                                  Charizard used flamethrower!
+                                                  Mewtwo received 40 damage!
+                                                  Mewtwo fainted!
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (79 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (0 HP)
+                                                                                                    0
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 78
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 79
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 5 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (40 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (9 PP)
+Enter the number of the move: 3
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (39 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 0
+                                                  Charizard used flamethrower!
+                                                  Blastoise received 70 damage!
+                                                  Blastoise used tackle!
+                                                  Charizard received 53 damage!
+                                                  Using oran berry...
+                                                   used!
+                                                  Charizard healed 20 HP!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 45
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: None
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 18
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 6 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (40 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (8 PP)
+Enter the number of the move: 3
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (38 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 0
+                                                  Charizard used flamethrower!
+                                                  Blastoise received 18 damage!
+                                                  Blastoise fainted!
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Blastoise (0 HP)
+                                                                                                    1. Venusaur (80 HP)
+                                                                                                    2. Mewtwo (0 HP)
+                                                                                                    1
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 45
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: None
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Venusaur
+                                                                                                    Type: Grass
+                                                                                                    Current HP: 80
+                                                                                                    Max HP: 80
+                                                                                                    Attack: 82
+                                                                                                    Defense: 83
+                                                                                                    Special Attack: 100
+                                                                                                    Special Defense: 100
+                                                                                                    Speed: 80
+                                                                                                    Moves: tackle, vine whip
+                                                                                                    Held Item: charcoal
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 7 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (40 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (7 PP)
+Enter the number of the move: 2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Venusaur, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. vine whip (15 PP)
+                                                                                                    Enter the number of the move: 1
+                                                  Charizard used ember!
+                                                  Venusaur received 80 damage!
+                                                  Venusaur fainted!
+                                                  Player 1 wins!
+
+
+
+*/
+
+
+/*
+----------
+| Turn 1 |
+----------
+Player 1, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for T.S.M.:
+0: GRIT (1 PP)
+1: M.IN.D Control (1 PP)
+2: SpreadCs (10 PP)
+2
+Player 2, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for Mewtwo:
+0: fire blast (8 PP)
+1: water spout (15 PP)
+2: vine whip (15 PP)
+3: fly (10 PP)
+0
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 19
+4*8*5*7*4+5+6-7*2*1
+Type the answer: 1234
+True answer: 10078
+Wrong!
+T.S.M. used SpreadCs!
+Mewtwo received 106 damage!
+
+Using oran berry...
+T.S.M. healed 20 HP!
+Mewtwo fainted!
+
+Player 2's Mewtwo fainted!
+Player 2, choose a Pokemon : 
+0. Mewtwo (0 HP)
+1. Pidgeot (83 HP)
+2. Blastoise (79 HP)
+1
+Player 2 switched to Pidgeot
+Using charcoal...
+Pidgeot used fire blast!
+T.S.M. received 100 damage!
+T.S.M. fainted!
+Player 1's T.S.M. fainted!
+Player 1, choose a Pokemon : 
+0. T.S.M. (0 HP)
+1. Rattata (30 HP)
+2. Venusaur (80 HP)
+1
+Player 1 switched to Rattata
+Player 1 Pokemon
+Name: Rattata
+Type: Normal
+Current HP: 30
+Max HP: 30
+Attack: 56
+Defense: 35
+Special Attack: 25
+Special Defense: 35
+Speed: 72
+Moves: tackle
+Held Item: black belt
+
+==================
+Player 2 Pokemon
+Name: Pidgeot
+Type: Normal
+Current HP: 83
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: charcoal
+
+*/
+
+
+/*
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (1 PP)
+1. M.IN.D Control (1 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 0
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (1060 HP)
+                                                                                                    1. Pidgeot (830 HP)
+                                                                                                    2. Blastoise (790 HP)
+                                                                                                    0
+                                                  T.S.M. used GRIT!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 1060
+                                                                                                    Max HP: 1060
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (1 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 1
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (1060 HP)
+                                                                                                    1. Pidgeot (830 HP)
+                                                                                                    2. Blastoise (790 HP)
+                                                                                                    2
+                                                  T.S.M. used M.IN.D Control!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 790
+                                                                                                    Max HP: 790
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (0 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 2
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 17
+3+9+7+5*4-2-3*9-7
+Type the answer: 3251
+True answer: 62
+Wrong!
+                                                  T.S.M. used SpreadCs!
+                                                  Blastoise received 228 damage!
+                                                  Blastoise is controlled and attacked itself!
+                                                  Blastoise used scald!
+                                                  Blastoise received 48 damage!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 514
+                                                                                                    Max HP: 790
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (0 PP)
+2. SpreadCs (9 PP)
+Enter the number of the move: 2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (19 PP)
+                                                                                                    Enter the number of the move: 2
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 15
+1+4+6*2-2*9*2+4
+Type the answer: 15
+True answer: 9
+Wrong!
+                                                  T.S.M. used SpreadCs!
+                                                  Blastoise received 228 damage!
+                                                  Blastoise used scald!
+                                                  T.S.M. received 100 damage!
+                                                  T.S.M. has GRIT!
+                                                  Using oran berry...
+                                                   used!
+                                                  T.S.M. healed 20 HP!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 21
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: None
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 286
+                                                                                                    Max HP: 790
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 5 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 
+*/
+
+
+/*
+
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (8 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (1 PP)
+1. M.IN.D Control (10 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 1
+                                                  Mewtwo used fire blast!
+                                                  T.S.M. received 184 damage!
+                                                  T.S.M. used M.IN.D Control!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 816
+Max HP: 1000
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 1060
+                                                                                                    Max HP: 1060
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 1300
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (1060 HP)
+                                                                                                    1. Pidgeot (830 HP)
+                                                                                                    2. Blastoise (790 HP)
+                                                                                                    2
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (1 PP)
+1. M.IN.D Control (9 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 1
+                                                  T.S.M. used M.IN.D Control!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 816
+Max HP: 1000
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 790
+                                                                                                    Max HP: 790
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 780
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 1
+Player 1, Choose a Pok?mon :
+0. T.S.M. (816 HP)
+1. Rattata (300 HP)
+2. Venusaur (800 HP)
+1
+                                                  Blastoise is controlled and attacked itself!
+                                                  Blastoise used tackle!
+                                                  Blastoise received 41 damage!
+Player 1 Pok?mon
+Name: Rattata
+Type: Normal
+Current HP: 300
+Max HP: 300
+Attack: 56
+Defense: 35
+Special Attack: 25
+Special Defense: 35
+Speed: 720
+Moves: tackle, M.IN.D Control
+Held Item: black belt
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 749
+                                                                                                    Max HP: 790
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 780
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (1060 HP)
+                                                                                                    1. Pidgeot (830 HP)
+                                                                                                    2. Blastoise (749 HP)
+                                                                                                    0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Rattata, Choose a move:
+0. tackle (40 PP)
+1. M.IN.D Control (10 PP)
+Enter the number of the move: 1
+                                                  Rattata used M.IN.D Control!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Rattata
+Type: Normal
+Current HP: 300
+Max HP: 300
+Attack: 56
+Defense: 35
+Special Attack: 25
+Special Defense: 35
+Speed: 720
+Moves: tackle, M.IN.D Control
+Held Item: black belt
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 1060
+                                                                                                    Max HP: 1060
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 1300
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 5 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (7 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 1
+Player 1, Choose a Pok?mon :
+0. T.S.M. (816 HP)
+1. Rattata (300 HP)
+2. Venusaur (800 HP)
+0
+                                                  Mewtwo is controlled and attacked itself!
+                                                  Mewtwo used fire blast!
+                                                  Mewtwo received 205 damage!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 816
+Max HP: 1000
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 987
+                                                                                                    Max HP: 1060
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 1300
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 6 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (6 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (1 PP)
+1. M.IN.D Control (8 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 2
+                                                  Mewtwo used fire blast!
+                                                  T.S.M. received 184 damage!
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 15
+1-1+8-4-4*7+3+7
+Type the answer: 23
+True answer: 18
+Wrong!
+                                                  T.S.M. used SpreadCs!
+                                                  Mewtwo received 266 damage!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 632
+Max HP: 1000
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 853
+                                                                                                    Max HP: 1060
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 1300
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 7 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 
+
+*/
+
+
+
+// checking for parsing
+/*
+void Game::checkPools() {
+
+    cout << "Pokemon Pool Size: " << pokemonPool.size() << "\n";
+    if (!pokemonPool.empty()) {
+        cout << "First Pokemon in Pool: " << pokemonPool[0].getName() << "\n";
+    }
+
+    for (int i = 0 ; i<7 ;i++) {
+        pokemonPool[i].displayInfo();
+        vector<Move> moves = pokemonPool[i].getMoves();
+        cout << "Moves for " << pokemonPool[i].getName() << ":\n";
+        for (const auto& move : moves) {
+            cout << "Name: " << move.getName() << "\n";
+            cout << "Power: " << move.getPower() << "\n";
+            cout << "PP: " << move.getPP() << "\n";
+        }
+        cout << endl;
+    }
+
+    // Check movePool
+        cout << "Move Pool Size: " << movePool.size() << "\n";
+    if (!movePool.empty()) {
+        cout << irst Move in Pool: " << movePool[0].getName() << "\n";
+    }
+
+    for (int i = 0 ; i<13 ;i++) {
+        movePool[i].displayInfo();
+        cout << endl;
+        }
+
+    // Check heldItemPool
+    cout << "Held Iool Size: " << heldItemPool.size() << "\n";
+    if (!heldItemPool.empty()) {
+        cout << "First Held Item in Pool: " << heldItemPool[0].getName() << "\n";
+    }
+    for (int i = 0 ; i<8 ;i++) {
+        heldItemPool[i].displayInfo();
+        cout << endl;
+    }
+}
+
+// checking for selection and checking the codes
+void Game::pokemonSelectChecker() {
+    vector<bool> selected(pokemonPool.size(), false);
+    selectPokemons(players[0], 1, selected);
+    selectPokemons(players[1], 2, selected);
+    selectPokemons(players[0], 2, selected);
+    selectPokemons(players[1], 1, selected);
+    cout << "Player 1 Pokemons:\n";
+    for (const auto& pokemon : players[0].getPokemons()) {
+        pokemon.displayInfo();
+    }
+    cout << "Player 2 Pokemons:\n";
+    for (const auto& pokemon : players[1].getPokemons()) {
+        pokemon.displayInfo();
+    }
+}
+*/
+
+/*
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Pidgeot, Choose a move:
+0. tackle (40 PP)
+1. fly (10 PP)
+Enter the number of the move: 0
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Venusaur, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. vine whip (15 PP)
+                                                                                                    Enter the number of the move: 0
+                                                  Pidgeot used tackle!
+                                                  Venusaur received 72 damage!
+                                                  Venusaur used tackle!
+                                                  Pidgeot received 54 damage!
+                                                  Using oran berry...
+                                                   used!
+                                                  Pidgeot healed 20 HP!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Pidgeot
+Type: Normal
+Current HP: 49
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: None
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Venusaur
+                                                                                                    Type: Grass
+                                                                                                    Current HP: 18
+                                                                                                    Max HP: 80
+                                                                                                    Attack: 82
+                                                                                                    Defense: 83
+                                                                                                    Special Attack: 100
+                                                                                                    Special Defense: 100
+                                                                                                    Speed: 80
+                                                                                                    Moves: tackle, vine whip
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice:   
+
+
+
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    All moves have 0 PP left! Using struggle.
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+All moves have 0 PP left! Using struggle.
+                                                  Mewtwo used struggle!
+                                                  Charizard received 63 damage!
+                                                  Using oran berry...
+                                                   used!
+                                                  Charizard healed 20 HP!
+                                                  Charizard used struggle!
+                                                  Mewtwo received 28 damage!
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 35
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: None
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 78
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    All moves have 0 PP left! Using struggle.
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+All moves have 0 PP left! Using struggle.
+                                                  Mewtwo used struggle!
+                                                  Charizard received 35 damage!
+                                                  Charizard fainted!
+Player 1, Choose a Pok?mon :
+0. Charizard (0 HP)
+1. Rattata (30 HP)
+2. Pidgeot (83 HP)
+0
+This Pok?mon has fainted. Choose another.
+Player 1, Choose a Pok?mon :
+0. Charizard (0 HP)
+1. Rattata (30 HP)
+2. Pidgeot (83 HP)
+0
+This Pok?mon has fainted. Choose another.
+Player 1, Choose a Pok?mon :
+0. Charizard (0 HP)
+1. Rattata (30 HP)
+2. Pidgeot (83 HP)
+1
+Player 1 Pok?mon
+Name: Rattata
+Type: Normal
+Current HP: 30
+Max HP: 30
+Attack: 56
+Defense: 35
+Special Attack: 25
+Special Defense: 35
+Speed: 72
+Moves: tackle
+Held Item: black belt
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 78
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    All moves have 0 PP left! Using struggle.
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+All moves have 0 PP left! Using struggle.
+                                                  Mewtwo used struggle!
+                                                  Rattata received 30 damage!
+                                                  Rattata fainted!
+Player 1, Choose a Pok?mon :
+0. Charizard (0 HP)
+1. Rattata (0 HP)
+2. Pidgeot (83 HP)
+2
+Player 1 Pok?mon
+Name: Pidgeot
+Type: Normal
+Current HP: 83
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: shell bell
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 78
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    All moves have 0 PP left! Using struggle.
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+All moves have 0 PP left! Using struggle.
+                                                  Mewtwo used struggle!
+                                                  Pidgeot received 66 damage!
+                                                  Pidgeot used struggle!
+                                                  Mewtwo received 40 damage!
+                                                  Using shell bell...
+                                                  shell bell used!
+                                                  Pidgeot healed 8 HP!
+Player 1 Pok?mon
+Name: Pidgeot
+Type: Normal
+Current HP: 25
+Max HP: 83
+Attack: 80
+Defense: 75
+Special Attack: 70
+Special Defense: 70
+Speed: 91
+Moves: tackle, fly
+Held Item: shell bell
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 38
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 5 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    All moves have 0 PP left! Using struggle.
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+All moves have 0 PP left! Using struggle.
+                                                  Mewtwo used struggle!
+                                                  Pidgeot received 25 damage!
+                                                  Pidgeot fainted!
+                                                  Player 2 wins!
+
+
+
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (1 PP)
+1. M.IN.D Control (1 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 0
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 1
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (106 HP)
+                                                                                                    1. Pidgeot (83 HP)
+                                                                                                    2. Blastoise (79 HP)
+                                                                                                    0
+                                                                                                    This Pok?mon is already in battle.
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (106 HP)
+                                                                                                    1. Pidgeot (83 HP)
+                                                                                                    2. Blastoise (79 HP)
+                                                                                                    2
+                                                  T.S.M. used GRIT!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 79
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (1 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 1
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (20 PP)
+                                                                                                    Enter the number of the move: 2
+                                                  T.S.M. used M.IN.D Control!
+                                                  Blastoise is controlled and attacked itself!
+                                                  Blastoise used scald!
+                                                  Blastoise received 48 damage!
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Blastoise
+                                                                                                    Type: Water
+                                                                                                    Current HP: 31
+                                                                                                    Max HP: 79
+                                                                                                    Attack: 83
+                                                                                                    Defense: 100
+                                                                                                    Special Attack: 85
+                                                                                                    Special Defense: 105
+                                                                                                    Speed: 78
+                                                                                                    Moves: tackle, water spout, scald
+                                                                                                    Held Item: fire gem
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (0 PP)
+2. SpreadCs (10 PP)
+Enter the number of the move: 2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Blastoise, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. scald (19 PP)
+                                                                                                    Enter the number of the move: 1
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 5
+8-3*6
+Type the answer: 30
+True answer: 30
+Correct!
+                                                  T.S.M. used SpreadCs!
+                                                  Blastoise received 31 damage!
+                                                  Blastoise fainted!
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (106 HP)
+                                                                                                    1. Pidgeot (83 HP)
+                                                                                                    2. Blastoise (0 HP)
+                                                                                                    0
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: T.S.M.
+Type: Normal
+Current HP: 100
+Max HP: 100
+Attack: 100
+Defense: 100
+Special Attack: 100
+Special Defense: 100
+Speed: 300
+Moves: GRIT, M.IN.D Control, SpreadCs
+Held Item: oran berry
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 106
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: T.S.M., Choose a move:
+0. GRIT (0 PP)
+1. M.IN.D Control (0 PP)
+2. SpreadCs (9 PP)
+Enter the number of the move: 2
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (8 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (10 PP)
+                                                                                                    Enter the number of the move: 3
+Calculate the maximum value of the expression by inserting parentheses.
+No nested parentheses are allowed.
+Expr: N: 1
+3
+Type the answer: 3
+True answer: 3
+Correct!
+                                                  T.S.M. used SpreadCs!
+                                                  Mewtwo received 106 damage!
+                                                  Mewtwo fainted!
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Mewtwo (0 HP)
+                                                                                                    1. Pidgeot (83 HP)
+                                                                                                    2. Blastoise (0 HP)
+                                                                                                    ^A^C
+
+
+                                                  ----------
+                                                  | Turn 1 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Pidgeot, Choose a move:
+                                                                                                    0. tackle (40 PP)
+                                                                                                    1. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Blastoise, Choose a move:
+0. tackle (40 PP)
+1. water spout (15 PP)
+2. scald (20 PP)
+Enter the number of the move: 0
+                                                  Pidgeot used tackle!
+                                                  Blastoise received 60 damage!
+                                                  Blastoise used tackle!
+                                                  Pidgeot received 55 damage!
+                                                  Using shell bell...
+                                                  shell bell used!
+                                                  Blastoise healed 11 HP!
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Blastoise
+Type: Water
+Current HP: 30
+Max HP: 79
+Attack: 83
+Defense: 100
+Special Attack: 85
+Special Defense: 105
+Speed: 78
+Moves: tackle, water spout, scald
+Held Item: shell bell
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Pidgeot
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 38
+                                                                                                    Max HP: 83
+                                                                                                    Attack: 80
+                                                                                                    Defense: 75
+                                                                                                    Special Attack: 70
+                                                                                                    Special Defense: 70
+                                                                                                    Speed: 91
+                                                                                                    Moves: tackle, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 2 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Pidgeot, Choose a move:
+                                                                                                    0. tackle (39 PP)
+                                                                                                    1. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Blastoise, Choose a move:
+0. tackle (39 PP)
+1. water spout (15 PP)
+2. scald (20 PP)
+Enter the number of the move: 0
+                                                  Pidgeot used tackle!
+                                                  Blastoise received 30 damage!
+                                                  Blastoise fainted!
+Player 1, Choose a Pok?mon :
+0. Blastoise (0 HP)
+1. Charizard (78 HP)
+2. Venusaur (80 HP)
+1
+                                                  Using leftovers...
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 78
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: charcoal
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Pidgeot
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 48
+                                                                                                    Max HP: 83
+                                                                                                    Attack: 80
+                                                                                                    Defense: 75
+                                                                                                    Special Attack: 70
+                                                                                                    Special Defense: 70
+                                                                                                    Speed: 91
+                                                                                                    Moves: tackle, fly
+                                                                                                    Held Item: leftovers
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 3 |
+                                                  ----------
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (40 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (10 PP)
+Enter the number of the move: 0
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Pidgeot, Choose a move:
+                                                                                                    0. tackle (38 PP)
+                                                                                                    1. fly (10 PP)
+                                                                                                    Enter the number of the move: 0
+                                                  Charizard used tackle!
+                                                  Pidgeot received 48 damage!
+                                                  Pidgeot fainted!
+                                                                                                    Player 2, Choose a Pok?mon :
+                                                                                                    0. Pidgeot (0 HP)
+                                                                                                    1. Mewtwo (106 HP)
+                                                                                                    2. Rattata (30 HP)
+                                                                                                    1
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 78
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: charcoal
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 106
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: oran berry
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 4 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (8 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (10 PP)
+                                                                                                    Enter the number of the move: 3
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 0
+Pokemon: Charizard, Choose a move:
+0. tackle (39 PP)
+1. fire blast (8 PP)
+2. ember (15 PP)
+3. flamethrower (10 PP)
+Enter the number of the move: 3
+                                                  Mewtwo used fly!
+                                                  Charizard received 78 damage!
+                                                  Charizard fainted!
+Player 1, Choose a Pok?mon :
+0. Blastoise (0 HP)
+1. Charizard (0 HP)
+2. Venusaur (80 HP)
+0
+This Pok?mon has fainted. Choose another.
+Player 1, Choose a Pok?mon :
+0. Blastoise (0 HP)
+1. Charizard (0 HP)
+2. Venusaur (80 HP)
+3
+Invalid choice
+Player 1, Choose a Pok?mon :
+0. Blastoise (0 HP)
+1. Charizard (0 HP)
+2. Venusaur (80 HP)
+2
+Player 1 Pok?mon
+Name: Venusaur
+Type: Grass
+Current HP: 80
+Max HP: 80
+Attack: 82
+Defense: 83
+Special Attack: 100
+Special Defense: 100
+Speed: 80
+Moves: tackle, vine whip
+Held Item: black belt
+
+==================
+                                                                                                    Player 2 Pok?mon
+                                                                                                    Name: Mewtwo
+                                                                                                    Type: Normal
+                                                                                                    Current HP: 106
+                                                                                                    Max HP: 106
+                                                                                                    Attack: 110
+                                                                                                    Defense: 90
+                                                                                                    Special Attack: 154
+                                                                                                    Special Defense: 90
+                                                                                                    Speed: 130
+                                                                                                    Moves: fire blast, water spout, vine whip, fly
+                                                                                                    Held Item: oran berry
+
+                                                                                                    ==================
+                                                  ----------
+                                                  | Turn 5 |
+                                                  ----------
+                                                                                                    Player 2, Choose an action:
+                                                                                                    0. Attack
+                                                                                                    1. Switch Pok?mon
+                                                                                                    2. Stop Game
+                                                                                                    Enter your choice: 0
+                                                                                                    Pokemon: Mewtwo, Choose a move:
+                                                                                                    0. fire blast (8 PP)
+                                                                                                    1. water spout (15 PP)
+                                                                                                    2. vine whip (15 PP)
+                                                                                                    3. fly (9 PP)
+                                                                                                    Enter the number of the move: 3
+Player 1, Choose an action:
+0. Attack
+1. Switch Pok?mon
+2. Stop Game
+Enter your choice: 2
+코드 실행이 완료되었습니다!
+
+
+----------
+| Turn 1 |
+----------
+Player 1, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for Charizard:
+0: tackle (40 PP)
+1: fire blast (8 PP)
+2: ember (15 PP)
+3: flamethrower (10 PP)
+0
+Player 2, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for Blastoise:
+0: tackle (40 PP)
+1: water spout (15 PP)
+2: scald (20 PP)
+0
+Using water gem...
+Charizard used tackle!
+Blastoise received 42 damage!
+Using oran berry...
+Blastoise healed 20 HP!
+Blastoise used tackle!
+Charizard received 53 damage!
+Player 1 Pok?mon
+Name: Charizard
+Type: Fire
+Current HP: 25
+Max HP: 78
+Attack: 84
+Defense: 78
+Special Attack: 109
+Special Defense: 85
+Speed: 101
+Moves: tackle, fire blast, ember, flamethrower
+Held Item: None
+
+==================
+Player 2 Pok?mon
+Name: Blastoise
+Type: Water
+Current HP: 57
+Max HP: 79
+Attack: 83
+Defense: 100
+Special Attack: 85
+Special Defense: 105
+Speed: 78
+Moves: tackle, water spout, scald
+Held Item: None
+
+==================
+----------
+| Turn 2 |
+----------
+Player 1, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+
+
+*/
+
+
+
+/*
+----------
+| Turn 1 |
+----------
+Player 2, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for T.S.M.:
+0: GRIT (1 PP)
+1: M.IN.D Control (1 PP)
+2: SpreadCs (10 PP)
+0
+Player 1, choose an action: 
+0. Attack
+1. Switch Pokemon
+2. Stop Game
+0
+Choose a move for Charizard:
+0: tackle (40 PP)
+1: fire blast (8 PP)
+2: ember (15 PP)
+3: flamethrower (10 PP)
+3
+T.S.M. used GRIT!
+this move is GRIT or M.IN.D Control
+
+init_damage : 0
+type_effectiveness : 1
+STAB : 1.5
+item_effect : 1
+damage : 0
+
+T.S.M. used GRIT!
+Charizard received 0 damage!
+Charizard received 0 damage!
+Charizard used flamethrower!
+
+init_damage : 98
+type_effectiveness : 1
+STAB : 1.5
+item_effect : 1
+damage : 147
+
+Charizard used flamethrower!
+T.S.M. received 100 damage!
+T.S.M. received 0 damage!
+T.S.M. fainted!
+Player 2, choose a Pokemon : 
+0. Blastoise (79 HP)
+1. Venusaur (80 HP)
+2. T.S.M. (0 HP)
+
+
+*/
